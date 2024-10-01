@@ -1,6 +1,3 @@
-
-Here’s a structured README format for your thesis, including the research papers and resources you've found:
-
 Thesis Research Papers and Resources
 Research Papers and Articles
 A Survey on Real-time Web Applications
@@ -39,4 +36,3 @@ Spring WebSocket Documentation
 Redis Documentation
 Redis is often used for session management in real-time applications. The official documentation provides insight into its features and usage.
 Redis Documentation
-
